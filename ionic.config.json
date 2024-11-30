@@ -1,0 +1,8 @@
+{
+  "name": "Bloxd.io Broswer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "67d6b5e7"
+}
